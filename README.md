@@ -76,7 +76,7 @@ salary-prediction-ml/
 
 ## Current Status
 
-🚧 **This project is currently in progress.**
+ **This project is currently in progress.**
 
 ### Completed
 
