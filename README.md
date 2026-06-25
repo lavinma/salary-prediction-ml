@@ -76,7 +76,8 @@ salary-prediction-ml/
 
 ## Current Status
 
- **This project is currently in progress.**
+ **Completed (v1.0)
+Future enhancements will include NLP-based feature extraction, gradient boosting models, and web deployment.**
 
 ### Completed
 
